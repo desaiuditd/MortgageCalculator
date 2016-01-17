@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de hipoteca</string>
+    <string name="amt_borrowed_error">Por favor, introduzca la cantidad prestada.</string>
+    <string name="amt_borrowed_hint">Ingrese cantidad prestada</string>
+    <string name="intrst_rate_label">Tasa de interés:</string>
+    <string name="loan_term_15_label">15 años</string>
+    <string name="loan_term_30_label">30 años</string>
+    <string name="loan_term_7_label">7 años</string>
+    <string name="loan_term_label">Plazo del préstamo:</string>
+    <string name="tax_insurance_label">¿Quieres impuestos y seguro que se incluirán en el pago mensual?</string>
+    <string name="monthly_payment_label">Mensualidad</string>
+</resources>

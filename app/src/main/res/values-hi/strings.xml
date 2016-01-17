@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ऋण कैलकुलेटर</string>
+    <string name="amt_borrowed_hint">दर्ज राशि उधार ली</string>
+    <string name="intrst_rate_label">ब्याज दर: </string>
+    <string name="loan_term_label">ऋण की अवधि: </string>
+    <string name="loan_term_7_label">7 साल</string>
+    <string name="loan_term_15_label">15 साल</string>
+    <string name="loan_term_30_label">30 साल</string>
+    <string name="tax_insurance_label">आप करों और बीमा मासिक भुगतान शामिल करना चाहते हैं ?</string>
+    <string name="monthly_payment_label">मासिक भुगतान</string>
+    <string name="amt_borrowed_error">उधार ली गई राशि दर्ज करें।</string>
+</resources>
