@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="amt_borrowed_hint">Enter Amount Borrowed</string>
+    <string name="intrst_rate_label">Interest Rate: </string>
+    <string name="loan_term_label">Loan Term: </string>
+    <string name="loan_term_7_label">7 years</string>
+    <string name="loan_term_15_label">15 years</string>
+    <string name="loan_term_30_label">30 years</string>
+    <string name="tax_insurance_label">Do you want taxes and insurance to be included in the monthly payment ?</string>
+    <string name="monthly_payment_label">Monthly Payment</string>
+    <string name="amt_borrowed_error">Please enter amount borrowed.</string>
+</resources>
